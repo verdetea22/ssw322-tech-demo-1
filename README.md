@@ -1,1 +1,4 @@
-# ssw322-tech-demo-1
+# Building a Website for a Coffee Shop
+# By Mikayla M
+
+
